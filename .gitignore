@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/OneDrive/
+/OneDrive/*
+!/OneDrive/Área de Trabalho/
+/OneDrive/Área de Trabalho/*
+!/OneDrive/Área de Trabalho/Hambuguer/
+/OneDrive/Área de Trabalho/Hambuguer/*
+!/OneDrive/Área de Trabalho/Hambuguer/index.html
